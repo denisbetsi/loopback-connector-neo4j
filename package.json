@@ -26,7 +26,7 @@
     "shasum": "ae0fa1f2b46e36c5a73bf6caf5f9624c3e366d13",
     "tarball": "http://registry.npmjs.org/loopback-connector-neo4j/-/loopback-connector-neo4j-0.1.3.tgz"
   },
-  "_from": "loopback-connector-neo4j@*",
+  "_from": "https://github.com/denisbetsi/loopback-connector-neo4j/tarball/master",
   "_npmVersion": "1.3.24",
   "_npmUser": {
     "name": "haio",
@@ -40,5 +40,7 @@
   ],
   "directories": {},
   "_shasum": "ae0fa1f2b46e36c5a73bf6caf5f9624c3e366d13",
-  "_resolved": "https://registry.npmjs.org/loopback-connector-neo4j/-/loopback-connector-neo4j-0.1.3.tgz"
+  "_resolved": "https://github.com/denisbetsi/loopback-connector-neo4j/tarball/master",
+  "readme": "loopback-connector-neo4j\n========================\n\nNeo4j connector for loopback-datasource-juggler\n",
+  "readmeFilename": "README.md"
 }
